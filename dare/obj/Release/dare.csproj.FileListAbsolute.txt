@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\dare.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\dare.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\dare.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\bin\Release\真不敢么.exe.config
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\bin\Release\真不敢么.exe
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\bin\Release\真不敢么.pdb
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\dare.Properties.Resources.resources
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\真不敢么.exe
+C:\Users\Administrator\source\repos\真不敢么\WindowsFormsApp1\obj\Release\真不敢么.pdb
